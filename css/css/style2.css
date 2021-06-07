@@ -1,0 +1,10 @@
+@media (max-width:375px){
+	.content{
+		display: flex;
+		flex-direction: row-reverse;
+	}	
+	.secondcolumn-3-element{
+		width: 419px;
+		height: 304px;
+	}
+}
